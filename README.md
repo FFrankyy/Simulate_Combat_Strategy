@@ -6,7 +6,7 @@ A Python-based simulation for analyzing optimal combat strategies in group battl
 
 This simulation models combat between two armies with customizable:
 - Resource allocation types (balanced, offensive, defensive, special forces, mixed)
-- Attack strategies (random, focus high-value, focus low-defense,分散攻击, mixed strategy)
+- Attack strategies (random, focus high-value, focus low-defense, distributed, mixed strategy)
 - Unit sizes (from 10 to 100 units)
 
 ## Key Features
